@@ -1,0 +1,1 @@
+[[OtungGmamgoz, Shockdragon| Shockdragon]] is a **Dwarven Fortress** located in the [[**Steppe of Temples**]] on the continent of [[**Droplets**]].  It is part of 

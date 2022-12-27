@@ -1,1 +1,1 @@
-This takes place in the Age of Myth, a time when living gods and mighty beasts still held sway.
+This takes place in 50, the Age of Myth, a time when living gods and mighty beasts still held sway.
