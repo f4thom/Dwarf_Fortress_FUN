@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c13e587aaded2928",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Infinite land/Starting Info.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "86fcabfb8cb64e7c"
-          },
-          {
             "id": "6b4e7e7a065419e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,30 +31,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "19dd4cb2e29fa2d5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "97d2bfb6a15d6420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Infinite land/Starting Info.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "86fcabfb8cb64e7c"
           }
         ]
       }
@@ -135,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Infinite land/Starting Info.md",
+                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Infinite land/Starting Info.md",
+                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,11 +143,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Infinite land/Starting Info.md"
+                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,9 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c13e587aaded2928",
+  "active": "6b4e7e7a065419e4",
   "lastOpenFiles": [
-    "Untitled.md",
-    "The Infinite land/Starting Info.md"
+    "The Infinite land/Starting Info.md",
+    "The Infinite land/OtungGmamgoz, Shockdragon.md"
   ]
 }
