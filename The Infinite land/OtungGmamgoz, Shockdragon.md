@@ -4,4 +4,4 @@
 
 Immediately, within the first month, the Dwarf Sazir Idomistem died of starvation. As of 20th Limestone, 50, the body has been missing for a week.
 
-On the 15th of Timber 50, Sazir came back to haunt the fortress.
+On the 15th of Timber 50, an apprition of the Dwarf Metob came back to haunt the fortress and was put to rest on the 23rd of Moonstone, 50.
