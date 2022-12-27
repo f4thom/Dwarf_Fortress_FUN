@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
+                "file": "The Infinite land/Starting Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
+                "file": "The Infinite land/Starting Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
+                "file": "The Infinite land/Starting Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md"
+                "file": "The Infinite land/Starting Info.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "34e54745b9d098fb",
   "lastOpenFiles": [
-    "Steppe of Temples.md",
     "The Infinite land/OtungGmamgoz, Shockdragon.md",
+    "Steppe of Temples.md",
     "Droplets.md",
     "The Infinite land/Starting Info.md"
   ]
