@@ -1,1 +1,1 @@
-This takes place in 
+This takes place in <mark style="background: #FF5582A6;">Age of Myth</mark>, a time when living gods and mighty beasts still held sway.

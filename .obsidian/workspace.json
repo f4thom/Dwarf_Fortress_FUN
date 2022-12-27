@@ -17,7 +17,27 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "86fcabfb8cb64e7c"
+          }
+        ]
+      },
+      {
+        "id": "19dd4cb2e29fa2d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97d2bfb6a15d6420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Infinite land/Starting Info.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "86fcabfb8cb64e7c"
           }
         ]
       }
@@ -69,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "ec9fe45aab8527ee",
