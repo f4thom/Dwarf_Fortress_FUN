@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e61487b10b3eee61",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6b4e7e7a065419e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "04e102db7d652486",
         "type": "tabs",
         "children": [
@@ -32,10 +14,30 @@
               "type": "markdown",
               "state": {
                 "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "f98758bfa1f4ae61"
+          }
+        ]
+      },
+      {
+        "id": "466ed05737bea6d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea103ec2ad24500",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "f98758bfa1f4ae61"
           }
         ]
       }
@@ -165,9 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34e54745b9d098fb",
+  "active": "dea103ec2ad24500",
   "lastOpenFiles": [
-    "The Infinite land/Starting Info.md",
-    "The Infinite land/OtungGmamgoz, Shockdragon.md"
+    "Steppe of Temples.md",
+    "The Infinite land/OtungGmamgoz, Shockdragon.md",
+    "Droplets.md",
+    "The Infinite land/Starting Info.md"
   ]
 }
