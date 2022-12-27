@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Infinite land/wawa.md",
+                "file": "The Infinite land/Starting Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Infinite land/wawa.md",
+                "file": "The Infinite land/Starting Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Infinite land/wawa.md",
+                "file": "The Infinite land/Starting Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Infinite land/wawa.md"
+                "file": "The Infinite land/Starting Info.md"
               }
             }
           }
@@ -146,6 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2397c3a94c519faa",
+  "active": "c13e587aaded2928",
   "lastOpenFiles": []
 }
