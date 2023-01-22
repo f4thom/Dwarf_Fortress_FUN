@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "deeaddd240800223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twistgate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
+                "file": "Twistgate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md",
+                "file": "Twistgate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Infinite land/OtungGmamgoz, Shockdragon.md"
+                "file": "Twistgate.md"
               }
             }
           },
@@ -155,10 +168,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a014ff1644ee0b99",
+  "active": "deeaddd240800223",
   "lastOpenFiles": [
-    "The Infinite land/Starting Info.md",
     "The Infinite land/OtungGmamgoz, Shockdragon.md",
+    "The Infinite land/Starting Info.md",
+    "Twistgate.md",
     "Steppe of Temples.md",
     "Droplets.md"
   ]
